@@ -1,6 +1,6 @@
 package com.ac.collection.hashset;
 
-import com.twq.collection.Person;
+import com.ac.collection.Person;
 
 import java.util.*;
 

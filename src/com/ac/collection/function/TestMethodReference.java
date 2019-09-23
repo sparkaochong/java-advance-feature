@@ -2,9 +2,7 @@ package com.ac.collection.function;
 
 import java.util.Arrays;
 import java.util.Collections;
-import java.util.Comparator;
 import java.util.List;
-import java.util.function.IntFunction;
 
 class ComparisonProvider {
     public int compareByName(Person a, Person b) {

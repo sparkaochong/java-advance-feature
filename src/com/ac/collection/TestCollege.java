@@ -2,9 +2,6 @@ package com.ac.collection;
 
 import java.util.Arrays;
 import java.util.Collection;
-import java.util.List;
-import java.util.function.IntFunction;
-import java.util.function.Predicate;
 
 public class TestCollege {
     public static void main(String[] args) {

@@ -1,6 +1,6 @@
 package com.ac.collection.hashtable;
 
-import com.twq.collection.Student;
+import com.ac.collection.Student;
 
 public class TestHashTable {
     public static void main(String[] args) {

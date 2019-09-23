@@ -1,6 +1,6 @@
 package com.ac.collection.hashtable;
 
-import com.twq.collection.Student;
+import com.ac.collection.Student;
 
 import java.util.HashMap;
 

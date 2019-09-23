@@ -1,7 +1,9 @@
 package com.ac.collection;
 
-import java.util.*;
-import java.util.function.BiConsumer;
+import java.util.Collection;
+import java.util.HashMap;
+import java.util.Map;
+import java.util.Set;
 
 public class TestMapIterator {
     public static void main(String[] args) {
