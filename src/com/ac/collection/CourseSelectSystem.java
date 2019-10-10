@@ -4,7 +4,7 @@ import java.util.ArrayList;
 
 /**
  * Description:
- * <p>
+ * <学生选课系统>
  * Created by aochong on 2019/9/25
  *
  * @author aochong

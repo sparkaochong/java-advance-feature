@@ -44,6 +44,28 @@ public class Course {
     }
 
     @Override
+    public boolean equals(Object obj) {
+        if (obj == this) {
+            return true;
+        }
+
+        if (obj == null) {
+            return false;
+        }
+
+        if (!(obj instanceof Course)) {
+            return false;
+        }
+
+        Course other = (Course)obj;
+        // 课程名相同的话，那么课程对象就相等
+        if (this.name.equals(other.name)) {
+            return true;
+        }
+        return false;
+    }
+
+    @Override
     public String toString() {
         return "Course{" +
                 "id=" + id +
