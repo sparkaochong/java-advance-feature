@@ -5,7 +5,7 @@ import java.util.Random;
 
 /**
  * Description:
- * <p>
+ * <学生实体>
  * Created by aochong on 2019/9/25
  *
  * @author aochong

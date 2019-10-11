@@ -2,7 +2,7 @@ package com.ac.collection;
 
 /**
  * Description:
- * <p>
+ * <课程实体类>
  * Created by aochong on 2019/9/25
  *
  * @author aochong

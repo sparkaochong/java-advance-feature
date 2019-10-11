@@ -4,7 +4,7 @@ import java.util.Objects;
 
 /**
  * Description:
- * <p>
+ * <人类实体>
  * Created by aochong on 2019/9/25
  *
  * @author aochong
