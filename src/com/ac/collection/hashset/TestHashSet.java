@@ -5,6 +5,7 @@ import com.ac.collection.Person;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.HashSet;
+import java.util.Map;
 import java.util.Set;
 
 /**
@@ -30,7 +31,7 @@ public class TestHashSet {
         System.out.println(list);
 
         // HashMap 的 key 是不能重复的
-        HashMap<Integer,String> map = new HashMap<>();
+        Map<Integer,String> map = new HashMap<>();
         map.put(1,"hello");
         map.put(1,"world");
         map.put(2,"nihao");

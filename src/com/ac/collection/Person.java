@@ -10,7 +10,7 @@ import java.util.Objects;
  * @author aochong
  * @version 1.0
  */
-public class Person {
+public class Person implements Comparable<Person>{
     private String name;
     private int age;
 
@@ -55,5 +55,12 @@ public class Person {
                 "name='" + name + '\'' +
                 ", age=" + age +
                 '}';
+    }
+
+    @Override
+    public int compareTo(Person o) {
+        if(this.age>o.getAge())return 1;
+        if(this.age<o.getAge())return -1;
+        return 0;
     }
 }
