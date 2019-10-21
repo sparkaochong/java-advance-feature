@@ -99,6 +99,10 @@ public class PrimitiveTypeSortUtil {
         return i;
     }
 
+    /**
+     * 归并排序
+     * @param arr
+     */
     public static void mergeSort(int[] arr){
         int length = arr.length;
         int[] tempArr = new int[length];
